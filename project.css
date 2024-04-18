@@ -1,0 +1,117 @@
+.style{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: rgb(20, 19, 19);
+    color: rgb(189, 192, 194);
+    line-height: 1.8;
+}
+a{
+    text-decoration: none;
+    color: rgb(162, 164, 165);
+}
+#showcase{
+    padding: 0;
+    margin: 0;
+    background: url('GL6.jpg') no-repeat center/cover;
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    overflow:hidden;
+}
+.main{
+    margin-top: 20vh;
+    text-align: center;
+    padding: 20PX;
+}
+.main h1{
+    font-size: 4rem;
+    margin-bottom: 0;
+}
+.main h2{
+    font-size: 2rem;
+}
+nav{
+    height: 40px;
+    width: 100%;
+    background-color: rgb(20, 19, 19);
+    color: rgb(8, 0, 0);
+    position: fixed;
+}
+nav ul{
+    padding: 0;
+    margin: 0;
+}
+nav li{
+    display:inline;
+    float: left;
+}
+nav a{
+    display: inline-block;
+    width: 100px;
+    text-align: center;
+    padding: 10px 0;
+    color: #eee;
+}
+nav li:hover{
+    background-color: rgb(48, 47, 47);
+    border-radius: 5px;
+}
+.foot{
+    max-width: 1180px;
+    text-align: center;
+    padding: auto 3rem;
+    margin: 0 auto;
+}
+footer .list-dropdown{
+    display: grid;
+    grid: 270px /repeat(4,270px);
+    grid-gap: 20px;
+    padding: 2rem;
+    text-align: left;
+}
+li{
+    list-style:none
+}
+footer .list-dropdown ul li:first-child{
+    color: #eee;
+    font-size: 1.2rem;
+    padding-bottom: 0.5rem;
+    border-bottom: #444 solid 1px;
+    margin-bottom: 1rem;
+}
+footer .footer-bottom{
+    text-align: center;
+    padding: 10px;
+    background-color: #1a1818;
+}
+.footer-bottom:hover{
+    background-color: black;
+    
+}
+section .container{
+    text-align: center;
+}
+section img{
+    border: 1px dotted white;
+    border-radius: 5px;
+    padding: 5px;
+    width: 300px;
+}
+.section1 img{
+    border: 1px dotted rgb(161, 156, 156);
+    border-radius: 5px;
+    margin: 20px;
+    justify-content: space-evenly;
+    display: inline-block;
+} 
+.firstimg{
+    height: 300px;
+}
+.down{
+    background-color: rgb(46, 48, 48);
+    padding: 10px;
+    color: #dbd8d8;
+}
+.web img{
+    padding: 5px;
+    border-radius: 10px;
+}
