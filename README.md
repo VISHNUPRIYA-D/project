@@ -1,3 +1,125 @@
-# project
-this is from project and from local repo. 
- 
+<!DOCTYPE html>
+<html>
+    <title>GLsports</title>
+    <link rel="stylesheet" href="GLsport-project.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> 
+    <link rel="icon" href="web.jpg"> 
+    <body class="style">
+        <div id="showcase">
+            <header>
+                <nav class="cf">
+                    <ul class="cf">
+                        <li>
+                            <a href="#showcase">GLsports</a>
+                        </li>
+                        <li>
+                            <a href="#aboutus">About us</a>
+                        </li>
+                        <li>
+                            <a href="#indoor">Indoor</a>
+                        </li>
+                        <li>
+                            <a href="#outdoor">Outdoor</a>
+                        </li>
+                        <li>
+                            <a href="#history">History</a>
+                        </li>
+                        <li>
+                            <a href="#home">Home</a>
+                        </li>
+                    </ul>    
+                </nav>
+            </header>
+            <div class="main">
+                <h1>GLsports</h1>
+                    <h2>Your best place to visualize and enjoy playing different sports</h2>
+    
+                    <p>Our team will help you select colours, logos/crests, products, and package deals. We will then create mock-ups and launch a club shop for your members to easily view and purchase the selected items and packages.</p>
+            </div>
+        </div>
+        <div class="down">
+        <section id="#showcase" class="home">
+        
+        </section>    
+        <section id="aboutus" class="section">
+            <div class="container">
+                <h2>About Us</h2>
+                <h3>200 Ruppee Offer Limited deals Today only</h3>
+            </div>
+        </section>
+        <section id="indoor" class="section">
+            <div class="container">
+                <h2>Indoor</h2>
+                <h3>indoor GL sports is available for regular customer</h3>
+                <img src="indoor.jpg" alt="error">
+            </div>
+        </section>
+        <section id="outdoor" class="section1">
+            <div class="container">
+                <h2>Outdoor</h2>
+                <h3>Strong enough to play in outdoor</h3>
+                <img src="outdoor1.webp" alt="display error" class="firstimg">
+                <img src="out1.webp" alt="display error" class="secimg">
+            </div>
+        </section>
+        <section id="history" class="section2">
+            <div class="container">
+                <h2>History</h2>
+                <h3>Go to the history to check past works</h3>
+            </div>
+        </section>
+        </div>
+        <footer>
+            <div class="foot">
+                <div class="list-dropdown">
+                    <ul class="pass">
+                        <li >Shop & Play</li>
+                        <li><a href="#3D sports">3D Sports</a></li>
+                        <li><a href="#Arcade sports">Arcade Sports</a> </li>
+                        <li><a href="#virtualreality">Virtual reality</a> </li>
+                        <li><a href="#merchandise">Merchandise</a></li>
+                        <li><a href="#giftcards">Gift cards</a></li>
+                    </ul>
+                    <ul class="pass">
+                        <li>GLSports Store</li>
+                        <li><a href="#Find a Store">Find a Store</a></li>
+                        <li><a href="#Today at GLSports">Today at GLSports</a></li>
+                        <li><a href="#Sports camp">Sports camp</a></li>
+                        <li><a href="#Entertainment">Entertainment</a></li>
+                        <li><a href="#Order Sports items">Order Sports items</a></li>
+                    </ul>
+                    <ul class="pass">
+                        <li>Education and Business</li>
+                        <li><a href="#GL & Education">GL & Education</a></li>
+                        <li><a href="#Shop for Courses">Shop for Courses</a></li>
+                        <li><a href="#>GL & Business">GL & Business</a></li>
+                        <li><a href="#Shop for Business">Shop for Business</a></li>
+                        <li><a href="#jobs">Jobs</a></li>                       
+                    </ul>
+                    <ul class="pass">
+                        <li>About GL</li>
+                        <li><a href="#Newsroom">Newsroom</a></li>
+                        <li><a href="#GL Leadership">GL Leadership</a></li>
+                        <li><a href="#GL Blogs">GL Blogs</a></li>
+                        <li><a href="Events">Events</a></li>
+                        <li><a href="Contents GL">Contents GL</a></li>                        
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                Copyright &copy;2024 learning presents
+            </div>    
+        
+        <div class="web">
+            <a href="https://www.instagram.com" target="_blank">
+                <img src="insta.jpg" alt="instagram" width="20" height="20" >
+            </a>
+            <a href="https://twitter.com" target="_blank">
+                <img src="twitter.png" alt="twitter" width="20" height="20">
+            </a>
+            <a href="https://www.facebook.com" target="_blank">
+                <img src="facebook.jpg" alt="facebook" width="20" height="20">
+            </a>
+        </div>
+    </body> 
+</html>
